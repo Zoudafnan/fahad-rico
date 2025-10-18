@@ -380,7 +380,7 @@ END:VCARD`;
                   />
                 </div>
                 <span style={{ fontSize: "0.875rem" }}>
-                  Al Jawhara Street, Dammam, Saudi Arabia
+                  Dammam, Saudi Arabia
                 </span>
               </a>
             </div>
